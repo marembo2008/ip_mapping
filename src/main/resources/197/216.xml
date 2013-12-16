@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="144020946">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="345969253" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1390947284">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1467002742">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="655333587">197</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1895454893">216</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1137967053">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="322899589">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="282216354">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1566369102">197</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="2110952388">217</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="199453029">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="2132569083">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="586509551">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1390947284"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1625031328">
+               <vjax:isoCode class="java.lang.String" ref-id="204507150">AO</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1177834850">AGO</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="366065904">244</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="2076483520">Angola</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

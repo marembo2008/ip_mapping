@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1816099740">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1003255369" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="463413566">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1818874186">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="388729057">64</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="724006825">217</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="740363873">193</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="775362793">232</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="591691955">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1717402075">64</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="48975198">224</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="639915985">10</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="469855719">16</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="567699214">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="463413566"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="304910263">
+               <vjax:isoCode class="java.lang.String" ref-id="730808499">US</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1239465500">USA</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1105282600">1</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="751111650">United States</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1285297877">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="50846077">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="2019008280">64</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1083055713">217</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="845976419">193</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1983930993">224</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="2097096029">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1391344839">64</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="383276890">217</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1431232877">193</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="766633692">231</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="2058063091">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1285297877"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="606185598">
+               <vjax:isoCode class="java.lang.String" ref-id="498924218">PR</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1643174038">PRI</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="186356246">1</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1058269196">Puerto Rico</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

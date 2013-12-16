@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1463455977">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1174396348" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="594360082">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="557221259">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="41515446">161</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1965399294">79</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="2019959751">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="2042043281">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1685261060">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1020815137">161</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="593151676">79</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="481129158">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1061827551">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="546543087">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="594360082"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1054269796">
+               <vjax:isoCode class="java.lang.String" ref-id="224889975">BR</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="154591105">BRA</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1904972512">55</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="39316061">Brazil</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

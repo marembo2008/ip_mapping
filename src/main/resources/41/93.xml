@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1714044356">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1597850434" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="372688544">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="789238503">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1872516049">41</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="4388758">93</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="747411708">128</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1116725053">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1938374638">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="935615876">41</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1020764598">93</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1891226350">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="935805203">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="2055299840">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="372688544"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="834733432">
+               <vjax:isoCode class="java.lang.String" ref-id="2001609420">GH</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="718191685">GHA</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1789553655">233</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1519803350">Ghana</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

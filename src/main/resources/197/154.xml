@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="595163561">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="2082625648" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1008165713">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="853303483">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="575844115">197</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1650727423">154</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="434562768">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="104558329">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="670212257">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="705674884">197</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1873076654">154</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="836542405">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="192763926">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1377964606">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1008165713"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="968232758">
+               <vjax:isoCode class="java.lang.String" ref-id="1604370387">ET</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="848422577">ETH</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="146835559">251</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="406529710">Ethiopia</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

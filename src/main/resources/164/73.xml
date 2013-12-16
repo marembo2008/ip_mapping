@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="209567431">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="326631737" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="890463682">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1879066135">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="570018163">164</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="370716274">73</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="778357171">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1526079120">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1414573719">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="2096522943">164</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="349423025">73</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1532490277">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1792707068">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="832124466">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="890463682"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="444296761">
+               <vjax:isoCode class="java.lang.String" ref-id="495021508">UY</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="474836478">URY</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="527453494">598</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="98378842">Uruguay</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1502035010">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1032142585" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1729882528">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1995009276">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1458721121">105</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1052566495">238</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1662281126">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1344120859">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1258794420">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1696410343">105</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1575737229">239</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="647272999">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1712622138">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1316952625">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1729882528"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1981762199">
+               <vjax:isoCode class="java.lang.String" ref-id="5913623">SD</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="606013999">SDN</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1909827119">249</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="26317324">Sudan</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

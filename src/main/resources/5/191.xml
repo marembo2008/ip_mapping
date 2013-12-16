@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="135895738">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1706397434" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="105019475">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="346892698">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1802585658">5</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="841628732">191</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1926799582">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1814661561">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="2066663840">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1486111508">5</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1841300346">191</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1495561952">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="423389631">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1172077737">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="105019475"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="730618672">
+               <vjax:isoCode class="java.lang.String" ref-id="196526758">AZ</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="195372620">AZE</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="125128077">994</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="641099726">Azerbaijan</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

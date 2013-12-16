@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1926334236">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="436042280" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1654649377">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1348396396">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="103300781">36</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1009439491">224</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="528713937">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1955291520">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1789810246">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1537360993">36</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="2050452294">239</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1281621849">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="957436733">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="544204560">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1654649377"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1482858120">
+               <vjax:isoCode class="java.lang.String" ref-id="1142721671">TW</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="776869376">TWN</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="143028672">886</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="848689311">Taiwan</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

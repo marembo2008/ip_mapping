@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="832630149">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1011470391" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="831725096">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="302311885">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="9542393">200</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1465209273">46</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="577271162">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="2012786235">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1735844101">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="766461012">200</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1303313978">46</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="464828846">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1980390583">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="575483628">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="831725096"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1060746368">
+               <vjax:isoCode class="java.lang.String" ref-id="1702453229">PA</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="59307175">PAN</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="343278017">507</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1332555877">Panama</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="455893715">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="2131499156" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="263367626">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1931599285">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="878891296">95</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1133487806">24</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="202122905">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1908018428">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1839902392">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1622469191">95</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="92343531">32</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1534532383">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1754644258">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1060603602">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="263367626"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="87253821">
+               <vjax:isoCode class="java.lang.String" ref-id="1891122293">RU</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1334402851">RUS</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1100531746">7</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1396244137">Russia</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

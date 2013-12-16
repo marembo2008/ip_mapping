@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="190915857">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="382239981" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1923125322">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1183772490">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1375733622">94</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="2146041352">29</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1529151699">128</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1515801444">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="476364947">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="446628213">94</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1025029626">29</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="559107948">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1686326411">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1746300218">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1923125322"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1238935568">
+               <vjax:isoCode class="java.lang.String" ref-id="788650064">KW</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="572556364">KWT</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="80587541">965</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1520103977">Kuwait</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="2101455901">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1653269545" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="6513693">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="210334282">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="330194612">181</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="483100036">124</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1974119392">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="402275194">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="760664802">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="523176623">181</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1231451943">127</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1712899862">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1689692599">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="339763465">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="6513693"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1681329949">
+               <vjax:isoCode class="java.lang.String" ref-id="1522625617">PY</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1353607267">PRY</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1783063798">595</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1966442748">Paraguay</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

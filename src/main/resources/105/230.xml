@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="999946599">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="2042951618" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1818271687">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1919295490">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="247438843">105</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1176293709">230</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="233912881">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1478716957">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="2115133215">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1747135714">105</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1566039767">231</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="870786337">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="204911654">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1533882637">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1818271687"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1598731441">
+               <vjax:isoCode class="java.lang.String" ref-id="563937623">KE</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1254295550">KEN</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1245829898">254</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="697537436">Kenya</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

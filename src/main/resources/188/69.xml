@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="364100113">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1249688888" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="435728169">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1131072956">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="417928248">188</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1848538446">69</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="739740773">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1040339328">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="171231822">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="265145374">188</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="269733293">69</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="69476634">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1610167317">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1640660972">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="435728169"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="133307965">
+               <vjax:isoCode class="java.lang.String" ref-id="681523934">LT</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1842469287">LTU</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1814600516">370</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1575601365">Lithuania</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="653340683">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="612972070" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1605253192">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="742525831">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="604168900">49</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="964019284">244</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1655473220">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="740278008">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1479713385">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1682229435">49</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1607901290">244</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="62767182">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="513557197">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="619032686">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1605253192"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="562845744">
+               <vjax:isoCode class="java.lang.String" ref-id="82954373">NP</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="497260108">NPL</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1591764679">977</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1585169274">Nepal</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

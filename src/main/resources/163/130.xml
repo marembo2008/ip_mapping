@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1875316540">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1975084408" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="288240075">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1588913577">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="911338194">163</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1007656154">130</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="620940036">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1516144279">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1943425498">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="2073557663">163</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="919018525">141</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1241960451">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="88251117">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1472806989">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="288240075"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1168029941">
+               <vjax:isoCode class="java.lang.String" ref-id="931201160">JP</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1984560431">JPN</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1938642260">81</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1138571536">Japan</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

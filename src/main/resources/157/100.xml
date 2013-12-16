@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="77468988">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="646191234" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1377143822">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="711266959">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1369800711">157</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1215853937">100</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1550217954">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1241547474">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1737281266">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1298573050">157</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="240946889">100</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1587688828">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1801818221">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1491934000">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1377143822"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1095932087">
+               <vjax:isoCode class="java.lang.String" ref-id="363345890">EC</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1458364809">ECU</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1506481652">593</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="604927034">Ecuador</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

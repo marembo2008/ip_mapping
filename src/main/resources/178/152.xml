@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="259382418">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="48495916" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1027567256">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1174557999">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1126605969">178</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="503205384">152</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="582287002">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="414663235">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="660556130">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1623905567">178</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="611194846">153</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="937493121">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="359366608">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1150565292">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1027567256"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="876930855">
+               <vjax:isoCode class="java.lang.String" ref-id="396610624">QA</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="45517280">QAT</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="504746628">974</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="716171146">Qatar</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

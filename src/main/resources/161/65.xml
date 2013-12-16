@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1521838314">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1006307628" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="274291768">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1578583671">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1242783459">161</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1035644691">65</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="725362702">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="2053752142">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="907592363">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="328500300">161</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="2071569310">66</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1860508006">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="48672875">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="2001224265">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="274291768"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="652428764">
+               <vjax:isoCode class="java.lang.String" ref-id="318734966">NZ</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1154357944">NZL</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="926697810">64</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1458684626">New Zealand</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

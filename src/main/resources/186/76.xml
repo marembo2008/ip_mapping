@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="599633166">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="2041349238" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1299744350">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="757898594">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1276159001">186</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1485147218">76</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="666863845">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="263489222">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="352074040">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="990942795">186</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1039873080">77</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="924936274">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1917320132">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1407335289">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1299744350"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1209675468">
+               <vjax:isoCode class="java.lang.String" ref-id="787904527">NI</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="927217887">NIC</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1609684177">505</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="2110461580">Nicaragua</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

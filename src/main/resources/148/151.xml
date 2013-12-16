@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="812046355">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="804511800" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="721711173">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="872781088">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1518437006">148</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1822582541">151</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="438025779">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="325325737">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="256296497">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1870512844">148</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="696260675">151</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="414772222">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="344816992">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1428304938">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="721711173"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="839218767">
+               <vjax:isoCode class="java.lang.String" ref-id="77223473">OM</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="814787923">OMN</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1784888589">968</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="423450380">Oman</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

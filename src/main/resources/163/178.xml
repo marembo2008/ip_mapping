@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="834561218">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1472715890" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="96780268">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="39447908">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1576026480">163</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="503069581">178</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="447329628">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="2076293296">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1799645769">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1486755235">163</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1923001800">178</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="262365250">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="788829459">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="556263637">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="96780268"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1397717308">
+               <vjax:isoCode class="java.lang.String" ref-id="111181023">CR</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="308680671">CRC</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1823029992">506</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1515883795">Costa Rica</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

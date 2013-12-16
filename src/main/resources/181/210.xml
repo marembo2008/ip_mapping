@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="607760393">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1196700019" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="997944609">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1752865178">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1224377100">181</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="917614146">210</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1260882715">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="287162409">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="942853254">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="252808765">181</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1234259589">210</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1656365950">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="712005589">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="899053239">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="997944609"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="174905904">
+               <vjax:isoCode class="java.lang.String" ref-id="1885899432">HN</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1600607551">HND</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="2030947335">504</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="2026773927">Honduras</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

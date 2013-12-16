@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1204690119">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="751006117" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="644559541">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1398415000">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1099872232">89</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="13369848">219</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1368736048">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="501932072">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="656568688">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1178960930">89</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="2112223288">219</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="84632859">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="790286899">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="165554798">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="644559541"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="950752956">
+               <vjax:isoCode class="java.lang.String" ref-id="2026597812">EE</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1938784864">EST</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1387833317">372</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1494668752">Estonia</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

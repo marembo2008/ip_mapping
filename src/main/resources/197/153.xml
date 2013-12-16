@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="773055705">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="471169585" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1250178679">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1175008606">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="110023230">197</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="177006543">153</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="684117106">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="328754504">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="2049008644">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="640516416">197</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1971364948">153</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1352975120">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1895987404">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1497944842">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1250178679"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="73749112">
+               <vjax:isoCode class="java.lang.String" ref-id="403261065">MA</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="150329523">MAR</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1147524189">212</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="2035894463">Morocco</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

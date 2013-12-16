@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1965156618">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="88787866" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1579009971">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1904012844">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1090045161">147</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="206028370">175</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="975175626">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="181552278">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1922357606">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="172814927">147</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1102587345">175</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="549117452">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1279784605">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="143647883">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1579009971"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1797780538">
+               <vjax:isoCode class="java.lang.String" ref-id="202588876">SK</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1149658437">SVK</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1398978600">421</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1982362844">Slovakia</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

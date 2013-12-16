@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="47407576">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="62696795" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1086841394">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1478046535">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1584768896">41</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="2118644978">91</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="639794339">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="572835044">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="469395007">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1414447218">41</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="2117904283">91</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1075835356">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1900004199">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="288741703">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1086841394"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1043640954">
+               <vjax:isoCode class="java.lang.String" ref-id="1974568829">EG</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1513511912">EGY</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="650906269">20</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="499965265">Egypt</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

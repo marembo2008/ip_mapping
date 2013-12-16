@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1390396339">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1621706566" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1240249103">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="159807038">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1522328916">95</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="661920854">56</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="938501718">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="130987211">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="331317102">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="21436643">95</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1655889852">59</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1300161091">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1161348212">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="300531501">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1240249103"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1441044483">
+               <vjax:isoCode class="java.lang.String" ref-id="314054915">KZ</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1953635726">KAZ</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1878167899">7</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="420815854">Kazakhstan</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

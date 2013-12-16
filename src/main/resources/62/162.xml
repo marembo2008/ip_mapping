@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="470902826">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="986557387" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1402210772">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="348764822">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1207490691">62</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="575579487">162</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1498091921">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1332638819">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1553676370">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1385086717">62</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="429719139">162</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="302064312">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="143550276">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1025353151">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1402210772"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1790198231">
+               <vjax:isoCode class="java.lang.String" ref-id="1615773947">MK</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1382010914">MKD</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="274305646">389</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1755085860">Macedonia</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

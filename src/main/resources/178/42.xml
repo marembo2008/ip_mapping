@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="307938251">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="82595287" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="502039102">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="904552647">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="779601016">178</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="956545565">42</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="598729513">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1886038796">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1795414652">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1241332167">178</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="266100164">43</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1284503294">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="2141242614">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="333657072">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="502039102"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1073065122">
+               <vjax:isoCode class="java.lang.String" ref-id="437837948">PL</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1463417414">POL</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="526268007">48</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1648735303">Poland</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

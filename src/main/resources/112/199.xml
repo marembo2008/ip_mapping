@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="402942894">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1245280467" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1559367726">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="53185207">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="530576897">112</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1053805535">199</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1011989936">128</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="444370112">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1727831765">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1394599621">112</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1399306789">199</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1055784426">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="2058956268">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="326508518">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1559367726"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1521802985">
+               <vjax:isoCode class="java.lang.String" ref-id="412533125">SG</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1367019359">SGP</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1714311107">65</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1786167197">Singapore</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

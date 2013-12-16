@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="26884552">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="877099594" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="497039226">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1085123350">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1237013126">62</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="690422075">153</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1069669784">228</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1354450651">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="925433157">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1678498125">62</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1172799883">154</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1642721415">143</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1169056073">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="997532508">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="497039226"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1690366154">
+               <vjax:isoCode class="java.lang.String" ref-id="922784115">DE</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="105722171">DEU</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="903551928">49</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1140385959">Germany</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1581605856">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="124029827">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1510164799">62</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="230552900">153</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="842091112">214</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1108085654">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="617399994">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="716854">62</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1310746943">153</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="836620075">226</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1498163616">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="390133037">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1581605856"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" references="1690366154"/>
+         </vjax:value>
+      </vjax:map-entry>
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1638026979">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="698378568">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1650461521">62</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="260515148">153</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1906419850">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="742405710">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="732778900">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="2143740402">62</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1511790695">153</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1787183208">211</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="334406267">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="401425270">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1638026979"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" references="1690366154"/>
+         </vjax:value>
+      </vjax:map-entry>
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1726565160">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1508377663">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="258929206">62</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1021296420">153</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="92140469">212</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="269152996">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1053843190">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1644857521">62</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="563367616">153</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="264122489">213</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="257974274">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="4139825">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1726565160"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="304910263">
+               <vjax:isoCode class="java.lang.String" ref-id="730808499">US</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1239465500">USA</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1105282600">1</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="751111650">United States</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1799074848">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="481220576" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="1848345929">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="450806230">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="378000994">195</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="806078332">255</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1431680648">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1849869948">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1643458417">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="670946805">195</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="166321238">255</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1484822319">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1648737293">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1346186210">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="1848345929"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="324433405">
+               <vjax:isoCode class="java.lang.String" ref-id="291258102">FI</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1059688801">FIN</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1107793836">358</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="7782162">Finland</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

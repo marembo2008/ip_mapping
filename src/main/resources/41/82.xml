@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="621224833">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="2007760164" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="209584959">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1014531037">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="202981679">41</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1309047517">82</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="191654704">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="2062623275">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1828353051">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="786223234">41</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="587013847">83</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="401852211">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="94040462">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="2137564289">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="209584959"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="789074560">
+               <vjax:isoCode class="java.lang.String" ref-id="1264609695">SN</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="649489506">SEN</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="310749641">221</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="88986783">Senegal</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

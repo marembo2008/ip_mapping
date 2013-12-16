@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="1383990717">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1336599962" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="2090706933">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1556613714">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1360903444">147</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="2003342758">8</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1933116040">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="601188817">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="269888184">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="525246024">147</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1652136198">8</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="489524076">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="421293675">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="429211566">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="2090706933"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1506658951">
+               <vjax:isoCode class="java.lang.String" ref-id="1437307680">HK</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1934116304">HKG</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="232756689">852</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="1373950836">Hong Kong</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

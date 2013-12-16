@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="712041960">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1510340636" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="2118904823">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="1038361712">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1293178062">167</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1909180394">157</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="2041712131">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="414590304">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="1582288460">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="1232146419">167</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="500056112">157</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1339563673">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="1975580610">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1338646003">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="2118904823"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="2051944569">
+               <vjax:isoCode class="java.lang.String" ref-id="592484010">BO</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="2144568578">BOL</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="398559198">591</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="582945793">Bolivia</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>

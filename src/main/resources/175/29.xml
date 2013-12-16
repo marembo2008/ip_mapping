@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vjax:CountryIpMappings xmlns:vjax="http://www.flemax.com/2011/vjax" class="com.anosym.utilities.geocode.CountryIpMappings" ref-id="474137153">
+   <vjax:ipMappings class="java.util.HashMap" ref-id="1658800101" map="true">
+      <vjax:map-entry>
+         <vjax:key class="com.anosym.utilities.geocode.Ipv4Range" key="true" ref-id="460650484">
+            <vjax:origin class="com.anosym.utilities.geocode.Ipv4" ref-id="820592153">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="552334437">175</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1660560325">29</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="339905863">0</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="491338421">0</vjax:fourthOctet>
+            </vjax:origin>
+            <vjax:end class="com.anosym.utilities.geocode.Ipv4" ref-id="850219032">
+               <vjax:firstOctet class="java.lang.Integer" ref-id="275083686">175</vjax:firstOctet>
+               <vjax:secondOctet class="java.lang.Integer" ref-id="1946702258">29</vjax:secondOctet>
+               <vjax:thirdOctet class="java.lang.Integer" ref-id="1311488161">255</vjax:thirdOctet>
+               <vjax:fourthOctet class="java.lang.Integer" ref-id="409369119">255</vjax:fourthOctet>
+            </vjax:end>
+         </vjax:key>
+         <vjax:value class="com.anosym.utilities.geocode.CountryIpMapping" value="true" ref-id="1876661692">
+            <vjax:ipv4Range class="com.anosym.utilities.geocode.Ipv4Range" references="460650484"/>
+            <vjax:countryCode class="com.anosym.utilities.geocode.CountryCode" ref-id="1791830158">
+               <vjax:isoCode class="java.lang.String" ref-id="1126283625">BD</vjax:isoCode>
+               <vjax:isoCode2 class="java.lang.String" ref-id="1528020717">BGD</vjax:isoCode2>
+               <vjax:internationalDialingCode class="java.lang.String" ref-id="1834739793">880</vjax:internationalDialingCode>
+               <vjax:name class="java.lang.String" ref-id="754013678">Bangladesh</vjax:name>
+            </vjax:countryCode>
+         </vjax:value>
+      </vjax:map-entry>
+   </vjax:ipMappings>
+</vjax:CountryIpMappings>
